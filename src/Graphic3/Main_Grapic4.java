@@ -284,9 +284,5 @@ public class Main_Grapic4 extends JFrame implements ActionListener {
 
             }
         }
-
-
-
-
     }
 }
